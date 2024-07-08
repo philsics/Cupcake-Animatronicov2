@@ -1,0 +1,8 @@
+-Placa Arduino UNO.
+-Tres Leds (dos de color rojo y uno amarillo).
+-Dos servomotores SG90.
+-Tres resistencias de 220 Ohm.
+-Una placa PCB.
+-Un sensor ultrasónico HR-SR04.
+-Conector para voltaje.
+-Múltiples cables de conexión.
